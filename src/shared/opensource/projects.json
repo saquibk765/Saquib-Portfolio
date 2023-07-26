@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "masterPortfolio",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/saquibk765/masterPortfolio",
+      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Industrial grade FDM 3D Printer",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/saquibk765/explainable-cnn",
+      "description": "Industrial-grade FDM 3D printer that features a robust cross XY gantry system and a spacious build area of 300 x 300 x 500 mm.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Air Conditioner Cum Air Sterilizer for Combined Application of Heating and Cooling",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://drive.google.com/file/d/1-5c2jhZqsVUEb-qRY7zx84p7lfsxUgPU/view?usp=sharing",
+      "description": "This system works on the application of psychrometric processes. Pre-filter, Hepa filter, and carbon-activated filters purify the air by 0.3 microns particles. Further, UVC emitter is used to kill the microorganism by destroying nucleic acid and disrupting their DNA.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Functional Weeder - Eyantra 2021-22",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://drive.google.com/file/d/1RUtWgYehPpRwj4Py_e2LWE3k0LP__0Ac/view?usp=sharing",
+      "description": "Designed an alphabot that was capable of sowing the seeds and picking up the weeds using the Elixir Programming language and Phoenix framework. I designed and 3D Printed the robotic arm and push mechanism for picking up the weeds and sowing the seeds.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "ISIEINDIA- Indian Kart Racing Competition",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "https://drive.google.com/file/d/1igyzpTtqrjBZZPIwjKXjctbVA67iz3do/view?usp=sharing",
+      "description": "We designed and fabricated an Electric Kart for the IKR Season 6. Helped my team to pass both Technical Inspections. We were third in Endurance in the Electric category and first in Tug of War and Design Report.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "react-liquidswipe",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/saquibk765/react-liquidswipe",
+      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
