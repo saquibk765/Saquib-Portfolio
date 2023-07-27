@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -95,40 +95,40 @@ const skills = {
         "⚡ ",
       ],
       softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
+        // {
+        //   skillName: "Tensorflow",
+        //   fontAwesomeClassname: "logos-tensorflow",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
+        // {
+        //   skillName: "Keras",
+        //   fontAwesomeClassname: "simple-icons:keras",
+        //   style: {
+        //     backgroundColor: "white",
+        //     color: "#D00000",
+        //   },
+        // },
+        // {
+        //   skillName: "PyTorch",
+        //   fontAwesomeClassname: "logos-pytorch",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
+        // {
+        //   skillName: "Python",
+        //   fontAwesomeClassname: "ion-logo-python",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //     color: "#3776AB",
+        //   },
+        // },
+        // {
+        //   skillName: "Deeplearning",
+        //   imageSrc: "deeplearning_ai_logo.png",
+        // },
       ],
     },
     {
@@ -140,77 +140,77 @@ const skills = {
         "⚡ Fabricated our own IndustrialGrade FDM printer ",
       ],
       softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "HTML5",
+        //   fontAwesomeClassname: "simple-icons:html5",
+        //   style: {
+        //     color: "#E34F26",
+        //   },
+        // },
+        // {
+        //   skillName: "CSS3",
+        //   fontAwesomeClassname: "fa-css3",
+        //   style: {
+        //     color: "#1572B6",
+        //   },
+        // },
+        // {
+        //   skillName: "Sass",
+        //   fontAwesomeClassname: "simple-icons:sass",
+        //   style: {
+        //     color: "#CC6699",
+        //   },
+        // },
+        // {
+        //   skillName: "JavaScript",
+        //   fontAwesomeClassname: "simple-icons:javascript",
+        //   style: {
+        //     backgroundColor: "#000000",
+        //     color: "#F7DF1E",
+        //   },
+        // },
+        // {
+        //   skillName: "ReactJS",
+        //   fontAwesomeClassname: "simple-icons:react",
+        //   style: {
+        //     color: "#61DAFB",
+        //   },
+        // },
+        // {
+        //   skillName: "NodeJS",
+        //   fontAwesomeClassname: "simple-icons:node-dot-js",
+        //   style: {
+        //     color: "#339933",
+        //   },
+        // },
+        // {
+        //   skillName: "NPM",
+        //   fontAwesomeClassname: "simple-icons:npm",
+        //   style: {
+        //     color: "#CB3837",
+        //   },
+        // },
+        // {
+        //   skillName: "Yarn",
+        //   fontAwesomeClassname: "simple-icons:yarn",
+        //   style: {
+        //     color: "#2C8EBB",
+        //   },
+        // },
+        // {
+        //   skillName: "Gatsby",
+        //   fontAwesomeClassname: "simple-icons:gatsby",
+        //   style: {
+        //     color: "#663399",
+        //   },
+        // },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
       ],
     },
     {
@@ -290,34 +290,34 @@ const skills = {
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
+        // {
+        //   skillName: "Adobe XD",
+        //   fontAwesomeClassname: "simple-icons:adobexd",
+        //   style: {
+        //     color: "#FF2BC2",
+        //   },
+        // },
+        // {
+        //   skillName: "Figma",
+        //   fontAwesomeClassname: "simple-icons:figma",
+        //   style: {
+        //     color: "#F24E1E",
+        //   },
+        // },
+        // {
+        //   skillName: "Adobe Illustrator",
+        //   fontAwesomeClassname: "simple-icons:adobeillustrator",
+        //   style: {
+        //     color: "#FF7C00",
+        //   },
+        // },
+        // {
+        //   skillName: "Inkscape",
+        //   fontAwesomeClassname: "simple-icons:inkscape",
+        //   style: {
+        //     color: "#000000",
+        //   },
+        // },
       ],
     },
   ],
@@ -411,7 +411,8 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Additive Manufacturing Manufacturability: Laser Powder Bed Fusion",
+      title:
+        "Additive Manufacturing Manufacturability: Laser Powder Bed Fusion",
       subtitle: "- ASME",
       logo_path: "stanford_logo.png",
       certificate_link:
@@ -596,8 +597,7 @@ const experience = {
         {
           title: "Industrial Trainee",
           company: "Noida Metro Rail Corporation, NMRC",
-          company_url:
-            "https://www.nmrcnoida.com/",
+          company_url: "https://www.nmrcnoida.com/",
           logo_path: "intel_logo.jpg",
           duration: "August 2021 - October 2021",
           location: "Greater Noida, Uttar Pradesh",
@@ -692,11 +692,12 @@ const publications = {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Generative Design and Additive Manufacturing",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Design Optimization of Hex-Copter Frame Using Generative Design and Additive Manufacturing ",
+      description:
+        "Design Optimization of Hex-Copter Frame Using Generative Design and Additive Manufacturing ",
       url:
         "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
     },
-    
+
     // {
     //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
     //   name: "Artificial Intelligence Paper",
@@ -749,15 +750,15 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Shaheen Bagh, New Delhi, India - 110025",
+    subtitle: "Shaheen Bagh, New Delhi, India - 110025",
     locality: "Shaheen Bagh",
     country: "IN",
     region: "New Delhi",
     postalCode: "110025",
     streetAddress: "Jamia Nagar",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/place/Shaheen+Bagh,+Block+A,+Jamia+Nagar,+Okhla,+New+Delhi,+Delhi+110025/@28.5499077,77.289647,15z/data=!3m1!4b1!4m6!3m5!1s0x390ce41a919c3be3:0xa06554fe72ffce96!8m2!3d28.5498897!4d77.2999682!16s%2Fm%2F064kqfw?entry=ttu",
+    location_map_link:
+      "https://www.google.com/maps/place/Shaheen+Bagh,+Block+A,+Jamia+Nagar,+Okhla,+New+Delhi,+Delhi+110025/@28.5499077,77.289647,15z/data=!3m1!4b1!4m6!3m5!1s0x390ce41a919c3be3:0xa06554fe72ffce96!8m2!3d28.5498897!4d77.2999682!16s%2Fm%2F064kqfw?entry=ttu",
   },
   phoneSection: {
     title: "",
