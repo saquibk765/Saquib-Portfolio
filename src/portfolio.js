@@ -90,9 +90,10 @@ const skills = {
       title: "CAD DESIGNING AND SIMULATION",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ CAD Modelling using Fusion 360, Solidworks and Catia",
-        "⚡ FEA Simulations in software like ANSYS, ABAQUS",
-        "⚡ ",
+        "⚡ Utilize Fusion 360, SolidWorks, and CATIA for advanced CAD modeling, creating intricate and accurate 3D designs",
+        "⚡ Employ ANSYS and ABAQUS software to conduct FEA simulations, enabling in-depth analysis of structural and mechanical properties.",
+        "⚡ Gain insights into the behavior of designs under various conditions, identifying potential weaknesses and optimizing performance.",
+        "⚡ Combine CAD modeling and FEA simulations to enhance product development processes, ensuring robust and reliable designs.",
       ],
       softwareSkills: [
         // {
@@ -135,9 +136,11 @@ const skills = {
       title: "3D Printing",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Freelancing 3d printing over a year",
-        "⚡ Have Hands on experience with many 3D Printers like Stratys Fortus 550, Ultimaker/Ender FDM printers, Formlabs SLA printers, etc",
-        "⚡ Fabricated our own IndustrialGrade FDM printer ",
+        "⚡ Successfully freelanced in the 3D printing industry for over a year, providing high-quality 3D printing services to clients.",
+        "⚡ Possess extensive hands-on experience with a wide range of 3D printers, including Stratys Fortus 550, Ultimaker, Ender FDM printers, Formlabs SLA printers, and more.",
+        "⚡ Innovated and built an Industrial-Grade FDM printer, showcasing expertise in custom printer fabrication and engineering. ",
+        "⚡ Delivered top-notch 3D printed products to various industries, demonstrating a deep understanding of materials, settings, and optimization for different applications."
+
       ],
       softwareSkills: [
         // {
@@ -326,54 +329,54 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
-      style: {
-        color: "#F79F1B",
-      },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    // {
+    //   siteName: "LeetCode",
+    //   iconifyClassname: "simple-icons:leetcode",
+    //   style: {
+    //     color: "#F79F1B",
+    //   },
+    //   profileLink: "https://leetcode.com/layman_brother/",
+    // },
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   profileLink: "https://www.hackerrank.com/layman_brother",
+    // },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "http://codeforces.com/profile/layman_brother",
+    // },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
+    // {
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/laymanbrother",
+    // },
   ],
 };
 
@@ -416,34 +419,34 @@ const certifications = {
       subtitle: "- ASME",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://drive.google.com/file/d/1704Q1eFJs6ROixGJPwa_Gux4vHw3VvG_/view?usp=sharing",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
     {
       title: "Design for Additive Manufacturing",
       subtitle: "- Gen3D",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "gen3d_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://drive.google.com/file/d/1VoVWMsauqRGz5xZt1FbWHgUyZdjAz2v6/view?usp=sharing",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
       title: "Additive Manufacturing: Metal 3D Printing",
       subtitle: "- Rich Cameron",
-      logo_path: "google_logo.png",
+      logo_path: "linkedin_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://drive.google.com/file/d/1JYlnALsfpSe9kyPICcMNzMKsaMzIuIXn/view?usp=sharing",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
     {
       title: "MATLAB Onramp",
       subtitle: "- MathWorks",
-      logo_path: "ibm_logo.png",
+      logo_path: "Matlab_Logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://drive.google.com/file/d/1BzmyuKFApTl1HTIB4ZktROJx9GSdaqXR/view?usp=sharing",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
@@ -452,27 +455,27 @@ const certifications = {
       subtitle: "- Autodesk",
       logo_path: "microsoft_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+        "https://www.coursera.org/account/accomplishments/specialization/P68XX2LDHUSE",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
-    },
-    {
-      title: "Generative Design for Additive Manufacturing",
-      subtitle: "- Autodesk",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
     },
     {
       title: "3D Printing Hardware ",
       subtitle: "- University of Illinois at Urbana-Champaign",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+        "https://www.coursera.org/account/accomplishments/verify/QDMKL5ZF34VP",
       alt_name: "Google",
       color_code: "#0C9D5899",
+    },
+    {
+      title: "Generative Design for Additive Manufacturing",
+      subtitle: "- Autodesk",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/2B5V8C4MWZYK",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
     },
     // {
     //   title: "DL on Tensorflow",
@@ -576,7 +579,7 @@ const experience = {
           title: "Research Fellow",
           company: "IIT Gandhinagar.",
           company_url: "https://iitgn.ac.in/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "iitgn_logo.png",
           duration: "May 2023 - Ongoing",
           location: "Gandhinagar, Gujarat",
           description:
@@ -587,7 +590,7 @@ const experience = {
           title: "Product Design Intern",
           company: "Dharaksha Ecosolutions Pvt.Ltd.",
           company_url: "https://www.dharaksha.com/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "dharaksha_logo.png",
           duration: "February 2023 - May 2023",
           location: "Faridabad, Uttar Pradesh",
           description:
@@ -598,7 +601,7 @@ const experience = {
           title: "Industrial Trainee",
           company: "Noida Metro Rail Corporation, NMRC",
           company_url: "https://www.nmrcnoida.com/",
-          logo_path: "intel_logo.jpg",
+          logo_path: "nmrc_logo.png",
           duration: "August 2021 - October 2021",
           location: "Greater Noida, Uttar Pradesh",
           description:
@@ -614,7 +617,7 @@ const experience = {
           title: "PRESIDENT – ASHRAE MAIT STUDENT BRANCH ",
           company: "ASHRAE ",
           company_url: "https://www.ashrae.org/",
-          logo_path: "google_logo.png",
+          logo_path: "ashrae_logo.png",
           duration: "June 2021 - Ongoing",
           location: "New Delhi, India",
           description:
@@ -625,7 +628,7 @@ const experience = {
           title: "MECHANICAL DESIGN HEAD",
           company: "3D-Space CLub",
           // company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
+          logo_path: "3dspace_logo.png",
           duration: "Aug 2022 - Ongoing",
           location: "New Delhi, India",
           description:
@@ -636,7 +639,7 @@ const experience = {
           title: "ASME Student Member",
           company: "ASME",
           company_url: "https://www.asme.org/",
-          logo_path: "mozilla_logo.png",
+          logo_path: "asme_logo.png",
           duration: "Oct 2021 - May 2022",
           location: "New Delhi, India",
           description:
@@ -745,7 +748,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    // link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
