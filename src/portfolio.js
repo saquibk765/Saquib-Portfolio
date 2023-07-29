@@ -139,8 +139,7 @@ const skills = {
         "⚡ Successfully freelanced in the 3D printing industry for over a year, providing high-quality 3D printing services to clients.",
         "⚡ Possess extensive hands-on experience with a wide range of 3D printers, including Stratys Fortus 550, Ultimaker, Ender FDM printers, Formlabs SLA printers, and more.",
         "⚡ Innovated and built an Industrial-Grade FDM printer, showcasing expertise in custom printer fabrication and engineering. ",
-        "⚡ Delivered top-notch 3D printed products to various industries, demonstrating a deep understanding of materials, settings, and optimization for different applications."
-
+        "⚡ Delivered top-notch 3D printed products to various industries, demonstrating a deep understanding of materials, settings, and optimization for different applications.",
       ],
       softwareSkills: [
         // {
@@ -284,45 +283,45 @@ const skills = {
         },
       ],
     },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        // {
-        //   skillName: "Adobe XD",
-        //   fontAwesomeClassname: "simple-icons:adobexd",
-        //   style: {
-        //     color: "#FF2BC2",
-        //   },
-        // },
-        // {
-        //   skillName: "Figma",
-        //   fontAwesomeClassname: "simple-icons:figma",
-        //   style: {
-        //     color: "#F24E1E",
-        //   },
-        // },
-        // {
-        //   skillName: "Adobe Illustrator",
-        //   fontAwesomeClassname: "simple-icons:adobeillustrator",
-        //   style: {
-        //     color: "#FF7C00",
-        //   },
-        // },
-        // {
-        //   skillName: "Inkscape",
-        //   fontAwesomeClassname: "simple-icons:inkscape",
-        //   style: {
-        //     color: "#000000",
-        //   },
-        // },
-      ],
-    },
+    // {
+    //   title: "UI/UX Design",
+    //   fileName: "DesignImg",
+    //   skills: [
+    //     "⚡ Designing highly attractive user interface for mobile and web applications",
+    //     "⚡ Customizing logo designs and building logos from scratch",
+    //     "⚡ Creating the flow of application functionalities to optimize user experience",
+    //   ],
+    //   softwareSkills: [
+    //     // {
+    //     //   skillName: "Adobe XD",
+    //     //   fontAwesomeClassname: "simple-icons:adobexd",
+    //     //   style: {
+    //     //     color: "#FF2BC2",
+    //     //   },
+    //     // },
+    //     // {
+    //     //   skillName: "Figma",
+    //     //   fontAwesomeClassname: "simple-icons:figma",
+    //     //   style: {
+    //     //     color: "#F24E1E",
+    //     //   },
+    //     // },
+    //     // {
+    //     //   skillName: "Adobe Illustrator",
+    //     //   fontAwesomeClassname: "simple-icons:adobeillustrator",
+    //     //   style: {
+    //     //     color: "#FF7C00",
+    //     //   },
+    //     // },
+    //     // {
+    //     //   skillName: "Inkscape",
+    //     //   fontAwesomeClassname: "simple-icons:inkscape",
+    //     //   style: {
+    //     //     color: "#000000",
+    //     //   },
+    //     // },
+    //   ],
+    // },
   ],
 };
 
